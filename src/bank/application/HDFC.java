@@ -1,7 +1,5 @@
 package bank.application;
-
 import java.util.UUID;
-
 public class HDFC implements BankInterface{
     private int balance;
     private String password;
